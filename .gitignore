@@ -3,6 +3,7 @@
 
 # Secrets — never commit
 .env
+airflow/.env
 *.env
 !example.env
 zomato/profiles.yml
